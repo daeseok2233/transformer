@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Ignore large JSON dataset files
+data/raw/일상생활구어체_train_set.json
+data/raw/일상생활구어체_valid_set.json
