@@ -4,7 +4,7 @@ Bahdanau Attention vs Transformer 를 이용한 영어 번역 모델의 성능 �
 
 ---
 
-## 사용 데이터 셋
+## 사용 데이터셋
 
 일상생활구어체_valid_set.json
 일상생활구어체_train_set.json
