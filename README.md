@@ -1,6 +1,15 @@
 ## 프로젝트 설명
 
-1. Main을 실행 하면 바다나우 어텐션 모델과 Transformer 모델이 생성됩니다.
-2. 모델이 모두 생성이되면 번역하고 싶은 한글을 입력하세요!
+Bahdanau Attention vs Transformer 를 이용한 영어 번역 모델의 성능 차이를 확인하세요
 
 ---
+
+## 실행 순서
+1. pip install -r requirements.txt
+2. sudo apt-get update 
+3. sudo apt-get install openjdk-11-jdk
+4. python main.py 를 통해 main.py를 실행하세요
+5. python inference.py 를 통해 번역 모델의 성능을 비교하세요   
+
+---
+
